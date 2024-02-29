@@ -1,0 +1,8 @@
+Olá, seja bem-vindo(a) ao EcoBot, seu chatbot sustentável, utilize os seguintes comandos para navegar no bot:
+/start para receber esta menssagem novamente
+/noticias para receber noticias atualizadas sobre sustentabilidade
+/reciclagem_de_plastico para receber dicas de como reciclar reciclagem_de_plastico
+/reciclagem_de_vidro para receber dicas de como riclar vidro
+/reciclagem_de_eletronicos para receber dicas de como riclar eletronicos
+/videos para ver alguns videos sobre sustentabilidade e reciclagem
+/quiz para jogar o quiz sobre sustentabilidade e reciclagem
